@@ -42,8 +42,7 @@ switch2.
 Direct connection:
  CIRCUIT DIAGRAM:
 
-![alt text](<WhatsApp Image 2026-03-15 at 5.39.34 PM.jpeg>)
-![alt text](<Screenshot 2026-03-11 140904.png>)
+<img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/6c338de3-6773-43a6-bf6a-b389dd79e225" />
 
 
 Tabulation:1
