@@ -41,8 +41,7 @@ switch2.
 
 Direct connection:
  CIRCUIT DIAGRAM:
- <img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/e97706c1-e6d4-43ad-a63e-32db413b8128" />
-
+ 
 
 <img src="circuit.jpeg">
 	
