@@ -43,6 +43,8 @@ Direct connection:
  CIRCUIT DIAGRAM:
 
 ![alt text](<WhatsApp Image 2026-03-15 at 5.39.34 PM.jpeg>)
+![alt text](<Screenshot 2026-03-11 140904.png>)
+
 
 Tabulation:1
 ![alt text](<WhatsApp Image 2026-03-15 at 5.40.05 PM.jpeg>)
@@ -50,6 +52,7 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 ![alt text](<WhatsApp Image 2026-03-15 at 5.39.48 PM.jpeg>)
+![alt text](<Screenshot 2026-03-11 141515.png>)
 
 Tabulation:2
 ![alt text](<WhatsApp Image 2026-03-15 at 5.40.20 PM.jpeg>)
