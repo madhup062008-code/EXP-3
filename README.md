@@ -41,8 +41,10 @@ switch2.
 
 Direct connection:
  CIRCUIT DIAGRAM:
+ <img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/e97706c1-e6d4-43ad-a63e-32db413b8128" />
 
-<img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/6c338de3-6773-43a6-bf6a-b389dd79e225" />
+
+<
 
 
 Tabulation:1
@@ -50,6 +52,8 @@ Tabulation:1
 
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/6c338de3-6773-43a6-bf6a-b389dd79e225" />
+
 ![alt text](<WhatsApp Image 2026-03-15 at 5.39.48 PM.jpeg>)
 ![alt text](<Screenshot 2026-03-11 141515.png>)
 
