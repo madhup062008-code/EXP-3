@@ -44,20 +44,19 @@ Direct connection:
  <img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/e97706c1-e6d4-43ad-a63e-32db413b8128" />
 
 
-<
-
-
-Tabulation:1
-![alt text](<WhatsApp Image 2026-03-15 at 5.40.05 PM.jpeg>)
-
+<img src="circuit.jpeg">
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection:
+CIRCUIT DIAGRAM:
 <img width="1083" height="422" alt="image" src="https://github.com/user-attachments/assets/6c338de3-6773-43a6-bf6a-b389dd79e225" />
 
-![alt text](<WhatsApp Image 2026-03-15 at 5.39.48 PM.jpeg>)
-![alt text](<Screenshot 2026-03-11 141515.png>)
+<img src="cross.jpeg">
 
-Tabulation:2
-![alt text](<WhatsApp Image 2026-03-15 at 5.40.20 PM.jpeg>)
+Tabulation:
+<img src="tab-2.jpeg">
+
+
+
+
 RESULT:
 Thus the staircase wiring is connected and tested.
